@@ -143,3 +143,4 @@ Las pruebas usan datos ficticios y perfiles separados. No intentan iniciar sesi√
 
 Referencias t√©cnicas: [aislamiento de procesos Electron](https://www.electronjs.org/docs/latest/tutorial/security), [perfiles y proxies Playwright](https://playwright.dev/docs/api/class-browsertype), [puente HTTP/HTTPS/SOCKS5](https://github.com/apify/proxy-chain).
 "# Checkerito" 
+"# Checkeritov2" 
